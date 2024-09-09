@@ -39,6 +39,7 @@ modules:
       - micro
       - nwg-clipman
       - plasma-workspace
+      - plasma-desktop
       - pyprland
       - qt5-qtvirtualkeyboard 
       - rofi-wayland
