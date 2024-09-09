@@ -21,7 +21,6 @@ modules:
       - https://copr.fedorainfracloud.org/coprs/wef/wlogout/repo/fedora-%OS_VERSION%/wef-wlogout-fedora-%OS_VERSION%.repo
       - https://pkgs.tailscale.com/stable/fedora/tailscale.repo
     install:
-      - kde-desktop-environment
       - cliphist
       - dwarfs
       - fish
@@ -38,8 +37,10 @@ modules:
       - lxappearance
       - micro
       - nwg-clipman
-      - plasma-workspace
+      - plasma-breeze
       - plasma-desktop
+      - plasma-workspace
+      - plasma-
       - pyprland
       - qt5-qtvirtualkeyboard 
       - rofi-wayland
@@ -55,6 +56,22 @@ modules:
       - waypaper
       - wlogout
       - xdg-desktop-portal-hyprland
+      - dolphin 
+      - konsole 
+      - systemsettings 
+      - kscreen
+      - kde-settings 
+      - kde-style-breeze 
+      - breeze-gtk 
+      - kde-gtk-config
+      - plasma-nm
+      - plasma-pa
+      - kwrite 
+      - gwenview 
+      - okular 
+      - ark 
+      - kate 
+      - kcalc
     remove:
       #-
 
