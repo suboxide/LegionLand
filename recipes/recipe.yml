@@ -3,7 +3,7 @@ name: LegionLand
 
 description: Bazzite gnome deck with hyprland and SDDM switching (does not work)
 
-base-image: ghcr.io/ublue-os/bazzite-deck-gnome
+base-image: ghcr.io/ublue-os/bazzite-deck
 image-version: 40 # latest is also supported if you want new updates ASAP
 
 modules:
@@ -37,14 +37,8 @@ modules:
       - lxappearance
       - micro
       - nwg-clipman
-      - plasma-breeze
-      - plasma-desktop
-      - plasma-workspace
       - pyprland
-      - qt5-qtvirtualkeyboard 
       - rofi-wayland
-      - sddm
-      - sddm-breeze
       - starship
       - swaylock-effects
       - swaync
@@ -55,22 +49,6 @@ modules:
       - waypaper
       - wlogout
       - xdg-desktop-portal-hyprland
-      - dolphin 
-      - konsole 
-      - plasma-systemsettings 
-      - kscreen
-      - kde-settings 
-      - kde-style-breeze 
-      - breeze-gtk 
-      - kde-gtk-config
-      - plasma-nm
-      - plasma-pa
-      - kwrite 
-      - gwenview 
-      - okular 
-      - ark 
-      - kate 
-      - kcalc
     remove:
       #-
 
