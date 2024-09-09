@@ -44,6 +44,7 @@ modules:
       sddm
       tailscale
       fish
+      btrfs-assistant
     remove:
       firefox
       firefox-langpacks
