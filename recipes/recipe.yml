@@ -38,6 +38,7 @@ modules:
       - micro
       - nwg-clipman
       - pyprland
+      - qt5-qtvirtualkeyboard 
       - rofi-wayland
       - sddm
       - starship
