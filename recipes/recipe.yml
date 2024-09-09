@@ -49,8 +49,7 @@ modules:
       - edk2-ovmf
       - btrfs-assistant
     remove:
-      - firefox
-      - firefox-langpacks
+      #-
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
