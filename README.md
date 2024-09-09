@@ -1,4 +1,7 @@
 ! Do not use or try this this will most likely not work
+   - I am using stuff from these 2 githubs: https://github.com/HikariKnight/Deckstation & https://github.com/TKK13909/TKKOS/tree/main
+   - My idea is to make something that auto logs into gamemode but lets you logout and pick gnome or hyprland but this is just a first trial
+
 
 # LegionLand &nbsp; [![bluebuild build badge](https://github.com/suboxide/legionland/actions/workflows/build.yml/badge.svg)](https://github.com/suboxide/legionland/actions/workflows/build.yml)
 
