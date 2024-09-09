@@ -40,7 +40,6 @@ modules:
       - plasma-breeze
       - plasma-desktop
       - plasma-workspace
-      - plasma-
       - pyprland
       - qt5-qtvirtualkeyboard 
       - rofi-wayland
