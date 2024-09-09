@@ -1,3 +1,5 @@
+! Do not use or try this this will most likely not work
+
 # LegionLand &nbsp; [![bluebuild build badge](https://github.com/suboxide/legionland/actions/workflows/build.yml/badge.svg)](https://github.com/suboxide/legionland/actions/workflows/build.yml)
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
