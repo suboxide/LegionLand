@@ -21,6 +21,7 @@ modules:
       - https://copr.fedorainfracloud.org/coprs/wef/wlogout/repo/fedora-%OS_VERSION%/wef-wlogout-fedora-%OS_VERSION%.repo
       - https://pkgs.tailscale.com/stable/fedora/tailscale.repo
     install:
+      - @kde-desktop-environment
       - cliphist
       - dwarfs
       - fish
