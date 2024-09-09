@@ -37,10 +37,12 @@ modules:
       - lxappearance
       - micro
       - nwg-clipman
+      - plasma-workspace
       - pyprland
       - qt5-qtvirtualkeyboard 
       - rofi-wayland
       - sddm
+      - sddm-breeze
       - starship
       - swaylock-effects
       - swaync
