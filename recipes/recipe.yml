@@ -44,10 +44,6 @@ modules:
       - sddm
       - tailscale
       - fish
-      - qemu
-      - virt-manager
-      - edk2-ovmf
-      - btrfs-assistant
     remove:
       #-
 
@@ -81,8 +77,5 @@ modules:
   
   - type: script
     scripts:
-      # Custom changes for deckstation
       - sddm/enable-sddm.sh
-      - main/add-justfile.sh
-      - main/deckstation-setup.sh
-      - fixes/btrfs-assistant.sh
+
