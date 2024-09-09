@@ -55,20 +55,28 @@ modules:
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
     system:
-     repo-url: https://dl.flathub.org/repo/flathub.flatpakrepo
-     repo-name: flathub
+      repo-url: https://dl.flathub.org/repo/flathub.flatpakrepo
+      repo-name: flathub
+      # repo-title: "Flathub (system-wide)" # Optional; this sets the remote's user-facing name in graphical frontends like GNOME Software
       install:
-        - org.libreoffice.LibreOffice
+         - org.libreoffice.LibreOffice
     user:
       install: 
-        - io.github.zen_browser.zen
-        - com.vscodium.codium
-        - org.libreoffice.LibreOffice
-
+         - io.github.zen_browser.zen
+         - com.vscodium.codium
+         - org.libreoffice.LibreOffice
+         
   - type: systemd
     system:
       enabled:
         - tailscaled
+      disabled:
+        #-
+    user:
+      enabled:
+        #- 
+      disabled:
+        #-
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
   
