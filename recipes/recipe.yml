@@ -57,7 +57,7 @@ modules:
       - xdg-desktop-portal-hyprland
       - dolphin 
       - konsole 
-      - systemsettings 
+      - plasma-systemsettings 
       - kscreen
       - kde-settings 
       - kde-style-breeze 
