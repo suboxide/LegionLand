@@ -25,7 +25,14 @@ modules:
       - cliphist
       - dwarfs
       - fish
-      - gnome-desktop
+      - gnome-shell
+      - gnome-settings-daemon 
+      - gnome-control-center 
+      - nautilus 
+      - gnome-terminal 
+      - gnome-software 
+      - gnome-screenshot 
+      - gnome-system-monitor
       - hyprdim
       - hypridle
       - hyprland
