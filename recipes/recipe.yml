@@ -76,7 +76,6 @@ modules:
     user:
       install: 
          - com.vscodium.codium
-         - io.github.zen_browser.zen
          - org.libreoffice.LibreOffice
          
   - type: systemd
