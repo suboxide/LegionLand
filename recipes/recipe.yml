@@ -65,6 +65,7 @@ modules:
       - python-pywal
       - python-materialyoucolor
       - pyprland 
+      - qt5-qtgraphicaleffects
       - qt5-qtquickcontrols
       - qt6-qtdeclarative
       - qt6-qt5compat
