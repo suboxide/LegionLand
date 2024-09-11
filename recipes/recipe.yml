@@ -67,7 +67,6 @@ modules:
       - qt6-qtvirtualkeyboard
       - ranger
       - rofi-wayland
-      - sddm-conf
       - sddm-kcm
       - sddm-themes
       - starship
