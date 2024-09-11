@@ -23,6 +23,8 @@ modules:
       - https://copr.fedorainfracloud.org/coprs/wef/wlogout/repo/fedora-%OS_VERSION%/wef-wlogout-fedora-%OS_VERSION%.repo
       - https://pkgs.tailscale.com/stable/fedora/tailscale.repo
     install:
+      - ags
+      - bluez
       - cliphist
       - dwarfs
       - fish
@@ -78,6 +80,7 @@ modules:
       - sddm-themes
       - starship
       - swaylock-effects
+      - swappy
       - swaync
       - swww
       - Thunar
@@ -91,6 +94,7 @@ modules:
       - waypaper
       - wlogout
       - xdg-desktop-portal-hyprland
+      - zsh
     remove:
       #-
 
