@@ -63,7 +63,11 @@ modules:
       - openssh-server
       - python-pywal
       - python-materialyoucolor
-      - pyprland
+      - pyprland 
+      - qt6-declarative
+      - qt6-5compat
+      - qt6-qtquickcontrols2 
+      - qt6-qtsvg
       - qt6-qtvirtualkeyboard
       - ranger
       - rofi-wayland
