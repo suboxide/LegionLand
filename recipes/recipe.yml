@@ -3,7 +3,7 @@ name: LegionLand
 
 description: Bazzite gnome deck with hyprland and SDDM switching (does not work)
 
-base-image: ghcr.io/ublue-os/bazzite-deck
+base-image: ghcr.io/ublue-os/bazzite-deck-gnome
 image-version: 40 # latest is also supported if you want new updates ASAP
 
 modules:
@@ -30,6 +30,7 @@ modules:
       - gnome-settings-daemon 
       - gnome-control-center 
       - nautilus 
+      - gdm
       - gnome-terminal 
       - gnome-software 
       - gnome-screenshot 
