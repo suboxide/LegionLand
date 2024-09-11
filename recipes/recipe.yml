@@ -50,6 +50,7 @@ modules:
       - python-pywal
       - python-materialyoucolor
       - pyprland
+      - qt6-qtvirtualkeyboard
       - ranger
       - rofi-wayland
       - starship
