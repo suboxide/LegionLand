@@ -19,6 +19,7 @@ modules:
       - https://copr.fedorainfracloud.org/coprs/luisbocanegra/kde-material-you-colors/repo/fedora-%OS_VERSION%/luisbocanegra-kde-material-you-colors-fedora-%OS_VERSION%.repo
       - https://copr.fedorainfracloud.org/coprs/mochaa/swaync/repo/fedora-%OS_VERSION%/mochaa-swaync-fedora-%OS_VERSION%.repo
       - https://copr.fedorainfracloud.org/coprs/solopasha/hyprland/repo/fedora-%OS_VERSION%/solopasha-hyprland-fedora-%OS_VERSION%.repo
+      - https://copr.fedorainfracloud.org/coprs/tofik/nwg-shell/repo/fedora-%OS_VERSION%/tofik-nwg-shell-fedora-%OS_VERSION%.repo
       - https://copr.fedorainfracloud.org/coprs/wef/wlogout/repo/fedora-%OS_VERSION%/wef-wlogout-fedora-%OS_VERSION%.repo
       - https://pkgs.tailscale.com/stable/fedora/tailscale.repo
     install:
@@ -47,6 +48,17 @@ modules:
       - lxappearance
       - micro
       - nwg-clipman
+      - nwg-bar
+      - nwg-displays
+      - nwg-dock
+      - nwg-drawer
+      - nwg-icon-picker
+      - nwg-look
+      - nwg-menu
+      - nwg-panel
+      - nwg-shell
+      - nwg-shell-config
+      - nwg-shell-wallpapers
       - python-pywal
       - python-materialyoucolor
       - pyprland
@@ -57,6 +69,11 @@ modules:
       - swaylock-effects
       - swaync
       - swww
+      - Thunar
+      - thunar-volman
+      - thunar-archive-plugin
+      - thunar-vcs-plugin
+      - thunar-media-tags-plugin 
       - tailscale
       - unclutter-xfixes
       - waybar-git
