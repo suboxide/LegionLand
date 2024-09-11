@@ -1,5 +1,5 @@
-! Do not use or try this this will most likely break your system, I use this build to boot my legion go into gamemode, when selecting go to desktop it goes to plasma desktop automaticly. Once there when I click logout I get sddm with options to pick hyprland. (I use this on the go with gamemode and plasma and at home docked hyprland)
- 
+! Do not use or try this this will most likely break your system, I use this build to boot my legion go into gamemode, when selecting go to desktop it goes to my custom SDDM 
+
 
 - First rebase to the unsigned image, to get the proper signing keys and policies installed:
   ```
