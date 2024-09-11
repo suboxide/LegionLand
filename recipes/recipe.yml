@@ -60,12 +60,16 @@ modules:
       - nwg-shell-config
       - nwg-shell-wallpapers
       - openssh
+      - openssh-server
       - python-pywal
       - python-materialyoucolor
       - pyprland
       - qt6-qtvirtualkeyboard
       - ranger
       - rofi-wayland
+      - sddm-conf
+      - sddm-kcm
+      - sddm-themes
       - starship
       - swaylock-effects
       - swaync
