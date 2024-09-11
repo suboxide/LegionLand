@@ -59,6 +59,7 @@ modules:
       - nwg-shell
       - nwg-shell-config
       - nwg-shell-wallpapers
+      - openssh
       - python-pywal
       - python-materialyoucolor
       - pyprland
