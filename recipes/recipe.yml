@@ -137,6 +137,21 @@ modules:
     - fcitx5-libs
     - qt5-qtvirtualkeyboard-examples
     #- qt5-qtvirtualkeyboard-devel
+    - libva
+    - libvdpau
+    - libxcb
+    - traceroute
+    - ocl-icd
+    - pcre2
+    - libxi
+    - xcb-util-wm
+    - xcb-util-image
+    - xcb-util-renderutil
+    - xcb-util-keysyms
+    - fontconfig
+    - alsa-lib
+    - alsa-plugins
+    - alsa-plugins-pulseaudio
     remove:
       #-
 
