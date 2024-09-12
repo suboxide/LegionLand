@@ -72,6 +72,9 @@ modules:
     - nwg-shell-wallpapers
     - openssh
     - openssh-server
+    - plasma-breeze
+    - plasma-desktop
+    - plasma-workspace
     - pyprland
     - python-materialyoucolor
     - python-pywal
@@ -81,6 +84,8 @@ modules:
     - qt6-qtvirtualkeyboard
     - ranger
     - rofi-wayland
+    - sddm
+    - sddm-breeze
     - sddm-kcm
     - sddm-themes
     - starship
@@ -104,6 +109,22 @@ modules:
     - xcur2png
     - xdg-desktop-portal-hyprland
     - zsh
+    - dolphin 
+    - konsole 
+    - plasma-systemsettings 
+    - kscreen
+    - kde-settings 
+    - kde-style-breeze 
+    - breeze-gtk 
+    - kde-gtk-config
+    - plasma-nm
+    - plasma-pa
+    - kwrite 
+    - gwenview 
+    - okular 
+    - ark 
+    - kate 
+    - kcalc
     remove:
       #-
 
