@@ -142,18 +142,14 @@ modules:
     - libxcb
     - traceroute
     - ocl-icd
-    - pcre2
-    - libxi
     - xcb-util-wm
     - xcb-util-image
     - xcb-util-renderutil
     - xcb-util-keysyms
     - fontconfig
     - alsa-lib
-    - alsa-plugins
     - alsa-plugins-pulseaudio
     - miracle-wm
-    - miracle-wm-config
 
     remove:
       #-
