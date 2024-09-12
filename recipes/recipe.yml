@@ -84,7 +84,7 @@ modules:
     - qt6-qtdeclarative
     - qt6-qtsvg
     - qt5-qtvirtualkeyboard
-    - qt6-qtvirtualkeyboard
+    #- qt6-qtvirtualkeyboard
     - ranger
     - rofi-wayland
     - scenefx
@@ -130,6 +130,13 @@ modules:
     - ark 
     - kate 
     - kcalc
+    - fcitx5
+    - fcitx5-autostart
+    - fcitx5-data
+    - fcitx5-devel
+    - fcitx5-libs
+    - qt5-qtvirtualkeyboard-examples
+    - qt5-qtvirtualkeyboard-devel
     remove:
       #-
 
