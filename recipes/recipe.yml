@@ -26,6 +26,7 @@ modules:
     - aquamarine
     - aylurs-gtk-shell
     - bluez
+    - brightnessctl
     - cliphist
     - dwarfs
     - eww-wayland-git
@@ -84,7 +85,7 @@ modules:
     - starship
     - swappy
     - swaylock-effects
-    - swaync
+    # - swaync
     - swww
     - tailscale
     - Thunar
