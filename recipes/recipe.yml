@@ -152,6 +152,9 @@ modules:
     - alsa-lib
     - alsa-plugins
     - alsa-plugins-pulseaudio
+    - miracle-wm
+    - miracle-wm-config
+
     remove:
       #-
 
