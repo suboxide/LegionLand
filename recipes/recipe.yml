@@ -136,7 +136,7 @@ modules:
     - fcitx5-devel
     - fcitx5-libs
     - qt5-qtvirtualkeyboard-examples
-    - qt5-qtvirtualkeyboard-devel
+    #- qt5-qtvirtualkeyboard-devel
     remove:
       #-
 
