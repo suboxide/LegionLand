@@ -92,6 +92,7 @@ modules:
       - unclutter-xfixes
       - waybar-git
       - waypaper
+      - wayvnc
       - wlogout
       - xdg-desktop-portal-hyprland
       - zsh
