@@ -1,3 +1,5 @@
+NOT WORKING WITH THIS ATM USING CACHYOS
+
 !!! Do not use or try this this will most likely break your system !!! 
 
 I use this build to boot my legion go into gamemode, when selecting go to desktop it goes to my custom SDDM 
